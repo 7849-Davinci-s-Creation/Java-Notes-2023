@@ -11,6 +11,9 @@ public class Methods {
 
         sayHi();
         // calling the method I made below.
+
+        add(1,2);
+
     }
 
     // private method means it can only be called from this class.
